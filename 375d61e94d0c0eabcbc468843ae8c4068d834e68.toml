@@ -1,0 +1,8 @@
+ladybird = "375d61e94d0c0eabcbc468843ae8c4068d834e68"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "c6703848430629148f60d4a4c7fa68ddf415f802c664d79a4b25131323414d47"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Pin md4c to 0.5.3 for Qt compatibility"
+lbenv    = "2948c703db132355a7543e5b3b4ab9964c64b7ad"
